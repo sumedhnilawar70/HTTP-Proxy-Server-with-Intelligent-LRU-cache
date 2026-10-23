@@ -30,3 +30,7 @@ cd C:\Users\username\OneDrive\Desktop\cn_proxy_server
 
 
 & "$env:LOCALAPPDATA\Programs\Python\Python313\python.exe" -m pip install streamlit pandas
+
+---
+## YOUTUBE VIDEO LINK
+https://youtu.be/N_heo-BIv9g?si=EKfISfUlzkMf9yjU
