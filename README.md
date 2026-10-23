@@ -27,3 +27,6 @@ Open your terminal and ensure you are in the project root directory:
 
 ```bash
 cd C:\Users\username\OneDrive\Desktop\cn_proxy_server
+
+
+& "$env:LOCALAPPDATA\Programs\Python\Python313\python.exe" -m pip install streamlit pandas
